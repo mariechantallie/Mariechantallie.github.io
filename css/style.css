@@ -515,14 +515,14 @@ textarea {
     color: #333;
     transition: color .3s; }
     .header__logo-container:hover {
-      color: #0062b9; }
+      color: #ffd7fd; }
   .header__logo-img-cont {
     width: 5rem;
     height: 5rem;
     border-radius: 50px;
     overflow: hidden;
     margin-right: 1.5rem;
-    background: #0062b9; }
+    background: #ffd7fd; }
     @media only screen and (max-width: 56.25em) {
       .header__logo-img-cont {
         width: 4.5rem;
@@ -554,7 +554,7 @@ textarea {
     font-weight: 700;
     transition: color .3s; }
     .header__link:hover {
-      color: #0062b9; }
+      color: #ffd7fd; }
     @media only screen and (max-width: 56.25em) {
       .header__link {
         padding: 3rem 1.8rem;
@@ -601,7 +601,7 @@ textarea {
     letter-spacing: 2px;
     transition: color .3s; }
     .header__sm-menu-link a:hover {
-      color: #0062b9; }
+      color: #ffd7fd; }
   .header__sm-menu-link:first-child a {
     border-top: 1px solid #eee; }
   .header__sm-menu-link-last {
