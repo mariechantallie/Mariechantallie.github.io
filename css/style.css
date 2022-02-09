@@ -103,7 +103,7 @@ textarea {
     top: calc(100% + 1.5rem);
     height: 5px;
     width: 3rem;
-    background: #0062b9;
+    background: #ffd7fd;
     left: 50%;
     transform: translateX(-50%);
     border-radius: 5px; }
@@ -155,12 +155,12 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #0062b9;
+    background: #ffd7fd;
     color: #fff; }
   .btn--theme-inv {
-    color: #0062b9;
+    color: #ffd7fd;
     background: #fff;
-    border: 2px solid #0062b9;
+    border: 2px solid #ffd7fd;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
 
